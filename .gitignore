@@ -1,0 +1,15 @@
+.DS_Store
+.claude/
+build/
+reference/
+assessment/
+.env
+courseware/.env
+courseware/assets/
+courseware/archive/
+courseware/qa-renders/
+qa-renders/
+qa/
+__pycache__/
+*.tmp
+~$*

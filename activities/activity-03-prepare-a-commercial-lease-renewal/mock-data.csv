@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://www.esade.edu/beyond/en/negotiation-techniques/,course enrichment source
+training_assumption,assumption_1,"Current base rent is SGD 18,000 monthly; the landlord opens at SGD 20,500.",fictional course input
+training_assumption,assumption_2,"Three comparable units range from SGD 18,700 to SGD 19,600 after incentives.",fictional course input
+training_assumption,assumption_3,"A relocation would cost SGD 180,000 and close the store for six weeks.",fictional course input
+training_assumption,assumption_4,"A landlord fit-out contribution of SGD 60,000 is worth more to Orchid than a short rent-free period.",fictional course input
+learner_question,question_1,"Which comparables are genuinely relevant, and what adjustments are required?",response required
+learner_question,question_2,"What is the total value of rent, incentive, duration and break rights?",response required
+learner_question,question_3,Which three packages are equivalent to Orchid but differently attractive to the landlord?,response required
+learner_question,question_4,"Which facts and assumptions should be disclosed, protected or verified?",response required

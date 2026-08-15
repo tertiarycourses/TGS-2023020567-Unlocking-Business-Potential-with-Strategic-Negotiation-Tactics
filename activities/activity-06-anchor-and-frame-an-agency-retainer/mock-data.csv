@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://www.fuqua.duke.edu/programs/executive-education/business-negotiation-skills/negotiation-techniques,course enrichment source
+training_assumption,assumption_1,"The approved expected budget is SGD 24,000 monthly, with authority up to SGD 26,000 for defined senior staffing and performance reporting.",fictional course input
+training_assumption,assumption_2,"The preferred agency's comparable work reduced acquisition cost by 12%, but attribution is not independently verified.",fictional course input
+training_assumption,assumption_3,The brand values launch readiness more than a small price reduction.,fictional course input
+training_assumption,assumption_4,A pilot phase can be completed in eight weeks before full regional rollout.,fictional course input
+learner_question,question_1,"Should the brand make the first offer, and why?",response required
+learner_question,question_2,What evidence makes the anchor credible rather than arbitrary?,response required
+learner_question,question_3,How should value be framed without overstating uncertain performance?,response required
+learner_question,question_4,Which concessions should be conditional and reciprocal?,response required

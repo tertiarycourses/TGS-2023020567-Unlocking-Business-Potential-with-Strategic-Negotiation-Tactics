@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://sg.indeed.com/career-advice/career-development/negotiation-skills,course enrichment source
+training_assumption,assumption_1,"Approved base salary band is SGD 9,500–10,500 monthly.",fictional course input
+training_assumption,assumption_2,"A sign-on award up to SGD 8,000 and training budget up to SGD 6,000 are available.",fictional course input
+training_assumption,assumption_3,The candidate's alternative offer is not verified and should not be treated as fact.,fictional course input
+training_assumption,assumption_4,The employer may offer two remote days weekly after a three-month onboarding period.,fictional course input
+learner_question,question_1,"What are the employer's target, reservation point and non-financial priorities?",response required
+learner_question,question_2,Which candidate interests should be tested rather than assumed?,response required
+learner_question,question_3,How can three packages create choice while protecting internal equity?,response required
+learner_question,question_4,"Which candidate information is relevant, confidential or inappropriate to request?",response required

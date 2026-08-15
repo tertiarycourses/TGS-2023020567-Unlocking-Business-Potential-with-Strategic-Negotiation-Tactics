@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://asana.com/resources/negotiation-skills,course enrichment source
+training_assumption,assumption_1,Current price is SGD 3.20 per litre; the supplier opens at SGD 3.62.,fictional course input
+training_assumption,assumption_2,"Forecast demand is 12,000 litres monthly with a plus/minus 15% range.",fictional course input
+training_assumption,assumption_3,"The alternative supplier can provide 7,000 litres at SGD 3.45 after a four-week onboarding period.",fictional course input
+training_assumption,assumption_4,"A stock-out is estimated to reduce contribution by SGD 4,800 per day.",fictional course input
+learner_question,question_1,"What are the organisation's must-have, target, tradeable and relationship outcomes?",response required
+learner_question,question_2,"What is the best credible BATNA, and what evidence is needed to validate it?",response required
+learner_question,question_3,Which issues could create value beyond unit price?,response required
+learner_question,question_4,What opening package and reservation point should the sponsor approve?,response required

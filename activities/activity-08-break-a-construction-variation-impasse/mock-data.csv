@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://www.pon.harvard.edu/freemium/negotiation-skills-negotiation-strategies-and-negotiation-techniques-to-help-you-become-a-better-negotiator/,course enrichment source
+training_assumption,assumption_1,"The contractor claims SGD 185,000; the owner's internal estimate is SGD 112,000.",fictional course input
+training_assumption,assumption_2,"Independent quantity rates support a range of SGD 125,000–145,000 before delay impact.",fictional course input
+training_assumption,assumption_3,"A 12-day delay would cost the owner SGD 36,000 in temporary premises.",fictional course input
+training_assumption,assumption_4,The contract and legal rights are simplified training inputs and require professional review in practice.,fictional course input
+learner_question,question_1,"Is the impasse about entitlement, valuation, delay, process or face?",response required
+learner_question,question_2,Which precedents and objective criteria are genuinely comparable?,response required
+learner_question,question_3,What package could separate undisputed and disputed components?,response required
+learner_question,question_4,"When should the parties pause, escalate, mediate or pursue BATNA?",response required

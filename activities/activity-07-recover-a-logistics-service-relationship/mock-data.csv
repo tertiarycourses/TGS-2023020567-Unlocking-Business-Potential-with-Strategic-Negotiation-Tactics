@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://www.betterup.com/blog/negotiation-skills,course enrichment source
+training_assumption,assumption_1,The SLA target is 95% on-time delivery; actual performance was 82% for six weeks.,fictional course input
+training_assumption,assumption_2,Thirty percent of late orders were changed by LionCity after the agreed cut-off.,fictional course input
+training_assumption,assumption_3,"Service credits could total SGD 42,000, but capacity for the peak period is more valuable.",fictional course input
+training_assumption,assumption_4,Both parties can share weekly forecast and capacity data under confidentiality controls.,fictional course input
+learner_question,question_1,"Which facts, interpretations and emotions must be separated?",response required
+learner_question,question_2,What open and diagnostic questions could reveal the failure system?,response required
+learner_question,question_3,How can the team acknowledge impact without accepting unsupported blame?,response required
+learner_question,question_4,What reciprocal recovery commitments create measurable improvement?,response required

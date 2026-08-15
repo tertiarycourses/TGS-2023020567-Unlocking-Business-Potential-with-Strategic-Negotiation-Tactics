@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://builtin.com/articles/negotiation-skills,course enrichment source
+training_assumption,assumption_1,The lead investor proposes a SGD 32 million pre-money valuation.,fictional course input
+training_assumption,assumption_2,An alternative investor may offer a higher valuation but cannot decide for eight weeks.,fictional course input
+training_assumption,assumption_3,The board currently has three seats: two founder nominees and one independent.,fictional course input
+training_assumption,assumption_4,All legal and tax terms are simplified and require qualified professional advice.,fictional course input
+learner_question,question_1,Which parties can form supportive or blocking coalitions?,response required
+learner_question,question_2,Which terms are economically linked even if negotiated separately?,response required
+learner_question,question_3,What precedent comparisons are misleading without context?,response required
+learner_question,question_4,"Which package best balances capital, control, incentives and relationship value?",response required

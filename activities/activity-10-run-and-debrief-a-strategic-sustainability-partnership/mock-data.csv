@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://www.pon.harvard.edu/daily/negotiation-skills-daily/top-10-negotiation-skills/,course enrichment source
+training_assumption,assumption_1,Estimated project investment is SGD 3.2 million funded primarily by SunGrid.,fictional course input
+training_assumption,assumption_2,"Modelled annual savings are SGD 620,000 with a plus/minus 20% uncertainty band.",fictional course input
+training_assumption,assumption_3,CivicSquare can offer five sites but only three have completed structural surveys.,fictional course input
+training_assumption,assumption_4,"Both parties require data security, safe access and measurable performance governance.",fictional course input
+learner_question,question_1,"What outcomes, BATNAs, roles, evidence and cultural/process assumptions should each team prepare?",response required
+learner_question,question_2,"Which opening package creates a credible anchor across value, risk and implementation?",response required
+learner_question,question_3,"How should teams respond to pressure, impasse and late requests while preserving reciprocity?",response required
+learner_question,question_4,"Does the final record make commitments, owners, evidence and review conditions executable?",response required

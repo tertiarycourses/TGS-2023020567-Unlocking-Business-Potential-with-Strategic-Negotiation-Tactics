@@ -1,0 +1,10 @@
+record_type,item,value,evidence_status
+method_source,primary_source,https://builtin.com/articles/negotiation-skills,course enrichment source
+training_assumption,assumption_1,"The current annual contract value is SGD 240,000 for 300 users.",fictional course input
+training_assumption,assumption_2,Forty-five licences are inactive; migration to an alternative takes four months.,fictional course input
+training_assumption,assumption_3,"The CFO may approve up to SGD 255,000 if three defined risk controls are included.",fictional course input
+training_assumption,assumption_4,"Only Legal may accept changes to liability, data location or termination language.",fictional course input
+learner_question,question_1,Who owns the commercial outcome and who can bind the organisation?,response required
+learner_question,question_2,"Which specialists must attend, remain on call or review offline?",response required
+learner_question,question_3,What commitments can the lead make without escalation?,response required
+learner_question,question_4,How should the team handle internal disagreement during the vendor meeting?,response required
