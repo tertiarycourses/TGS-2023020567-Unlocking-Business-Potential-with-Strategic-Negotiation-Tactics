@@ -8,6 +8,7 @@ courseware/.env
 courseware/assets/
 courseware/archive/
 courseware/qa-renders/
+courseware/slide_map.json
 qa-renders/
 qa/
 __pycache__/
