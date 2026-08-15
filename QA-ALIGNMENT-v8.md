@@ -9,7 +9,7 @@ QA date: 16 August 2026
 
 ## Build inventory
 
-- Trainer deck: 142 slides in editable PPTX and learner PDF formats.
+- Trainer deck: 141 slides in editable PPTX and learner PDF formats.
 - Learner Guide: DOCX and 30-page PDF with full activity procedures.
 - Lesson Plan: DOCX and 8-page PDF; both training days total 480 minutes excluding lunch.
 - Activities: 10 individual folders, 41 Markdown files, 10 scenario PDFs and 10 mock-data CSV files.
@@ -18,7 +18,7 @@ QA date: 16 August 2026
 ## Alignment checks
 
 - Course code, title, TSC `ICT-BIN-3105-1`, K1–K6, A1–A5 and both learning outcomes are consistent across the deck, LG, LP and assessments.
-- The final slide map places Topic 1 at slides 20–73 and Topic 2 at slides 74–142; the Lesson Plan was regenerated from this map.
+- The final slide map places Topic 1 at slides 20–73, Topic 2 at slides 74–131 and wrap-up at slides 132–141; the Lesson Plan was regenerated from this map.
 - The supplied 109-slide v7 deck was treated as the coverage floor. BATNA, WATNA, ZOPA, roles, venue, information exchange, first offers, mutual gain, difficult behaviour, pressure and delay tactics, impasse, consensus, closure and negotiation records remain covered.
 - All ten approved enrichment-source links appear in the source register and the Learner Guide.
 - No wellness-course, BCM, ISO 22301, Jamboard or unrelated AI-ethics material remains in the release.
@@ -34,9 +34,9 @@ QA date: 16 August 2026
 ## Visual QA
 
 - Full-deck contact sheets and selected 170-dpi individual renders were inspected.
-- A fix-and-verify cycle corrected trainer-slide differentiation, recap-card clipping and high-resolution source/consensus renders.
+- A fix-and-verify cycle corrected recap-card clipping and high-resolution source, consensus and decision-artifact renders.
 - A second cycle added ten editable decision artifacts to increase activity-block visual variety.
-- Final PowerPoint package validation passed with no blocking overflow, overlap, off-canvas objects or bad image crop observed.
+- Final native PowerPoint PDF export and individual 170-dpi renders passed with no blocking overflow, overlap, off-canvas objects or bad image crop observed.
 
 ## Assessment QA
 
