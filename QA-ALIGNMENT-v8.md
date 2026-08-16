@@ -7,12 +7,20 @@ QA date: 16 August 2026
 
 **PASS — ready for controlled Drive, LMS-TMS and GitHub publication.**
 
+Exact-artifact publication manifest (regenerated and rechecked 16 August 2026):
+
+- Activity tree: 102 files; SHA-256 manifest `6d14a832894ba7ce68faac0279f940cc36325cfb9957b489b4b43ae892fc4006`.
+- Trainer PPTX: SHA-256 `ab533f01ab4149b771f0c8fba2d35f850465ff4fb62ba5de87cac3391c72e6b7`.
+- Learner slide PDF: SHA-256 `74c7cecea9c9898214c20d3962b401d1db17e6c48e39f4e9fc9ea8854b4887a2`.
+- Learner Guide PDF: SHA-256 `da25e22defeb190ca42270ebb99d6652c9d2876a63cc91333b1d6f28397c69c3`.
+- Lesson Plan PDF: SHA-256 `a035c47b7982af66bd583e77da3db8ffa5763a2b4d50a573f32b2fe573c86d2e`.
+
 ## Build inventory
 
 - Trainer deck: 141 slides in editable PPTX and learner PDF formats.
 - Learner Guide: DOCX and 30-page PDF with full activity procedures.
 - Lesson Plan: DOCX and 8-page PDF; both training days total 480 minutes excluding lunch.
-- Activities: 10 individual folders, 41 Markdown files, 10 scenario PDFs and 10 mock-data CSV files.
+- Activities: 10 individual folders, 41 Markdown files, 41 same-basename printable PDFs, 10 additional scenario PDFs and 10 mock-data CSV files.
 - Assessment: 6-question WA-SAQ plus answer key; 2-question Case Study plus answer key.
 
 ## Alignment checks
@@ -28,6 +36,7 @@ QA date: 16 August 2026
 - No numbered step-by-step activity procedure appears in the PPT.
 - Detailed procedures, scenarios, questions, checkpoints, deliverables and acceptance criteria appear in the Learner Guide and each activity `README.md`.
 - Every activity has its own `activities/activity-*` folder; no `labs/` directory exists.
+- Every activity Markdown file has a same-basename PDF counterpart; the recursive parity check passed 41/41.
 - Every case distinguishes realistic workplace context from fictional training assumptions.
 - Each activity block includes an editable native decision artifact, such as an outcome control panel, authority map, value model, impasse map or coalition map.
 

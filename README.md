@@ -22,7 +22,7 @@ This package develops practical preparation and bargaining capability through te
 9. Negotiate a multi-party growth investment.
 10. Run and debrief a strategic sustainability partnership.
 
-Open [activities/README.md](activities/README.md) to access the individual activity folders.
+Open [activities/README.md](activities/README.md) to access the individual activity folders. Every activity Markdown resource is also supplied as a same-basename printable PDF.
 
 ## Courseware
 
@@ -32,4 +32,3 @@ Current learner and trainer artifacts are in `courseware/`. Assessments, source 
 
 Tertiary Infotech Academy Pte Ltd · UEN 201200696W  
 [Course information](https://www.tertiarycourses.com.sg/wsq-unlocking-business-potential-with-strategic-negotiation-tactics.html)
-

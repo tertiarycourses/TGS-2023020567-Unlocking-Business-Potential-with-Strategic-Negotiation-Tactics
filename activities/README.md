@@ -2,7 +2,7 @@
 
 Course: TGS-2023020567
 
-Ten self-contained activities apply negotiation concepts to authentic workplace decisions. Each folder contains the full scenario, questions, detailed procedure, evidence checklist and acceptance test.
+Ten self-contained activities apply negotiation concepts to authentic workplace decisions. Each folder contains the full scenario, questions, detailed procedure, evidence checklist and acceptance test. Every Markdown resource has a same-basename printable PDF in the same folder.
 
 - [Activity 1: Renew a Critical Ingredient Supply Agreement](activity-01-renew-a-critical-ingredient-supply-agreement/README.md) — K1 · K2 · A1 · A3
 - [Activity 2: Create a SaaS Renewal Team Mandate](activity-02-create-a-saas-renewal-team-mandate/README.md) — K2 · A2 · A3
