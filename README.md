@@ -2,6 +2,14 @@
 
 WSQ course materials for **TGS-2023020567 — Business Negotiation (ICT-BIN-3105-1)**.
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2023020567` |
+| Programme | WSQ |
+| Duration | 16 hours, including 2 hours of assessment |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-unlocking-business-potential-with-strategic-negotiation-tactics.html) |
+| Funding | Up to 70% course-fee funding for eligible learners and SMEs. Eligibility and terms apply — see the registration page. |
+
 This package develops practical preparation and bargaining capability through ten connected, workplace-realistic activities. The slide deck is visual and concept-led; detailed procedures, scenarios, questions, evidence checkpoints and acceptance criteria are provided in the Learner Guide and each activity folder.
 
 ## Learning outcomes
